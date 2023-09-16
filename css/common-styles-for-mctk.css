@@ -1,0 +1,32 @@
+.mtck-wrap {
+  width: 105px;
+  height: 130px;
+  margin: 7px auto;
+  position: relative;
+}
+
+.mtck-elem {
+  content: '';
+  position: absolute;
+
+  width: 7px;
+  height: 25%;
+  /* background-image: url(../up_images/new_images/sec-mtck/matchstick.svg); */
+  background-image: url(../images/matchstick.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* .mtck_playfield--width {
+  width: 400px;
+  height: 500px;
+  margin: 7px auto;
+  position: relative;
+}
+.mtck__playfield--img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
